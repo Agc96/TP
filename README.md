@@ -1,2 +1,2 @@
 # TP
-INF144 - Técnicas de Programación
+Evaluaciones y actividades del curso INF144 - Técnicas de Programación (PUCP)
