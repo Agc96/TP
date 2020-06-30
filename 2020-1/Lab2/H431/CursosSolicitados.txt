@@ -1,0 +1,20 @@
+Numero de requisitos ingresado: 3
+========================================================================================================================
+Codigo  Curso                                                    Creditos  Requisitos (Codigo/Nivel)       Prom Niv
+========================================================================================================================
+FIS218  Fisica Moderna                                               5.00  INF250/1  FIS203/6  FIS208/8        5.00
+FIS220  Tecnicas Computacionales En Fisica                           3.50  MEC289/8  FIS203/6  FIS218/8        7.33
+FIS227  Particulas Elementales                                       4.00  INF282/5  FIS218/8  FIS220/2        5.00
+FIS239  Estado Solido                                                4.00  INF239/9  FIS218/8  FIS227/6        7.67
+FIS248  Mecanica Clasica 1                                           4.00  FIS204/1  FIS219/8  FIS229/4        4.33
+INF238  Redes De Computadoras                                        5.00  MEC2T2/7  FIS204/1  MAT219/4        4.00
+INF239  Sistemas Operativos                                          4.00  INF263/5  INF263/5  INF281/6        5.33
+INF245  Ingenieria De Software                                       4.00  INF250/1  INF220/1  INF282/5        2.33
+INF263  Algoritmia                                                   4.00  FIS227/6  MAT219/4  MAT218/6        5.33
+MAT241  Metodos Numericos En Ingenieria                              5.50  FIS204/1  MAT218/6  MAT219/4        3.67
+MEC209  Mecanica De Fluidos                                          3.50  INF220/1  MAT218/6  MEC206/4        3.67
+MEC286  Transferencia De Calor                                       3.00  FIS203/6  MEC206/4  MEC269/9        6.33
+MEC289  Turbomaquinas Y Maquinas De Desplazamiento Positivo          3.00  FIS208/8  MEC206/4  MEC209/4        5.33
+MEC373  Metrologia                                                   2.50  FIS239/4  MAT241/9  MEC286/4        5.67
+========================================================================================================================
+Total de cursos: 14

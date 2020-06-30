@@ -1,0 +1,34 @@
+INF263,Algoritmia,FIS227,6,MAT219,4,MAT218,6,4.00
+MEC270,Procesos De Manufactura,FIS204,1,MEC209,4,5.50
+MEC289,Turbomaquinas Y Maquinas De Desplazamiento Positivo,FIS208,8,MEC206,4,MEC209,4,3.00
+MAT241,Metodos Numericos En Ingenieria,FIS204,1,MAT218,6,MAT219,4,5.50
+MEC206,Termodinamica 1,INF248,9,MAT218,6,2.50
+INF246,Bases De Datos,INF245,5,INF263,5,4.50
+FIS220,Tecnicas Computacionales En Fisica,MEC289,8,FIS203,6,FIS218,8,3.50
+INF248,Sistemas De Informacion 1,INF263,5,INF281,6,INF238,7,MAT241,9,3.00
+MAT218,Ecuaciones Diferenciales Aplicadas,MAT241,9,MAT111,1,3.00
+FIS247,Optica Y Fotonica,FIS218,8,FIS227,6,3.50
+FIS227,Particulas Elementales,INF282,5,FIS218,8,FIS220,2,4.00
+MEC209,Mecanica De Fluidos,INF220,1,MAT218,6,MEC206,4,3.50
+FIS239,Estado Solido,INF239,9,FIS218,8,FIS227,6,4.00
+FIS229,Trabajo De Investigacion,FIS227,6,FIS220,2,3.50
+INF245,Ingenieria De Software,INF250,1,INF220,1,INF282,5,4.00
+MEC2T3,Laboratorio De Introduccion Al Diseno De Maquinas,MEC269,9,MEC2T2,7,3.50
+INF250,Sistemas De Informacion 2,MAT241,9,INF248,9,4.50
+FIS248,Mecanica Clasica 1,FIS204,1,FIS219,8,FIS229,4,4.00
+INF282,Lenguaje De Programacion 2,FIS247,1,INF281,6,4.00
+MAT781,Matematica Computacional Para Control,FIS219,8,MAT218,6,MAT219,4,MAT241,9,4.50
+MEC2T2,Introduccion Al Diseno De Maquinas,MEC269,9,MAT781,1,MEC206,4,MEC209,4,INF246,4,2.50
+FIS218,Fisica Moderna,INF250,1,FIS203,6,FIS208,8,5.00
+MEC286,Transferencia De Calor,FIS203,6,MEC206,4,MEC269,9,3.00
+FIS230,Teoria De Campos Electromagneticos,INF250,1,FIS208,8,FIS219,8,FIS220,2,FIS229,4,3.50
+INF220,Fundamentos De Programacion,FIS229,4,MAT219,4,3.00
+INF239,Sistemas Operativos,INF263,5,INF263,5,INF281,6,4.00
+MAT219,Herramientas Matematicas,MEC289,8,MAT218,6,2.00
+FIS203,Fisica 4,MEC289,8,FIS111,1,4.00
+INF281,Lenguaje De Programacion 1,MEC286,4,INF220,1,INF263,5,MAT218,6,3.00
+FIS219,Sistemas Electromagneticos Y Optoelectronicos,INF248,9,FIS208,8,3.00
+MEC373,Metrologia,FIS239,4,MAT241,9,MEC286,4,2.50
+INF238,Redes De Computadoras,MEC2T2,7,FIS204,1,MAT219,4,5.00
+FIS208,Temas De Fisica General,MAT781,1,FIS111,1,3.50
+MEC269,Laboratorio De Termodinamica Y Fluidos,MEC269,9,MEC206,4,4.50
