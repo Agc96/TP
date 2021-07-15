@@ -4,15 +4,13 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>alumno.h</itemPath>
-      <itemPath>curso.h</itemPath>
       <itemPath>funciones.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
-      <itemPath>Matricula.csv</itemPath>
-      <itemPath>SolicitudDeAlumnos.txt</itemPath>
+      <itemPath>AtencionPacientes.txt</itemPath>
+      <itemPath>Medicos.txt</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -42,13 +40,9 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="Matricula.csv" ex="false" tool="3" flavor2="0">
+      <item path="AtencionPacientes.txt" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="SolicitudDeAlumnos.txt" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="alumno.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="curso.h" ex="false" tool="3" flavor2="0">
+      <item path="Medicos.txt" ex="false" tool="3" flavor2="0">
       </item>
       <item path="funciones.c" ex="false" tool="0" flavor2="0">
       </item>
@@ -77,13 +71,9 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="Matricula.csv" ex="false" tool="3" flavor2="0">
+      <item path="AtencionPacientes.txt" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="SolicitudDeAlumnos.txt" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="alumno.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="curso.h" ex="false" tool="3" flavor2="0">
+      <item path="Medicos.txt" ex="false" tool="3" flavor2="0">
       </item>
       <item path="funciones.c" ex="false" tool="0" flavor2="0">
       </item>

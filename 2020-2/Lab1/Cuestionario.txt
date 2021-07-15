@@ -1,0 +1,30 @@
+PREGUNTA 1 (4 puntos)
+
+Verifique que ha escrito correctamente su programa, para esto compile el proyecto [Mayús + F11]. Anote el(los) error(es) que le aparecen en la ventana de Salida del proyecto (parte inferior del NetBeans), en la primera corrida (sin correcciones) y explique por qué se producen. Luego corrija el proyecto hasta que se ejecute correctamente.
+
+main.c:35:25: error: expected ')' before 'Y' ==> se escribió "Y" en vez de "&&".
+main.c:56:19: warning: implicit declaration of function 'solucionDeEcuaciones' ==> se escribió "solucionDeEcuaciones" en vez de "solucionDeEcuacion".
+main.c:64:13: error: expected ';' before 'if' ==> falta un punto y coma después de "cuenta = cuenta + 1".
+
+PREGUNTA 2 (2 puntos)
+
+Verifique que su programa se ejecuta correctamente. Ejecute [F6] e ingrese los valores que se piden: para los puntos de inicio x1 = 1 y x2 = 15; para los coeficientes: c2, c1, c0, use los valores de la ecuación f1 dada en el ejemplo; y para la exactitud deseada e = 0.199
+Observará como resultado de la raíz 4.065765
+
+Indique cuál sería el resultado de la raíz para el ejemplo de la ecuación f2; para los puntos de inicio x1 =  -8 y x2 = 1 y un e = 0.2
+Para una respuesta correcta, coloque el resultado sin redondear y con toda la cantidad de decimales.
+
+PREGUNTA 3 (5 puntos)
+
+Empleando las opciones de depuración indique lo siguiente:
+Utilizando [Ctrl + F5], Puntos de Interrupción y la ventana de Variables ¿Cuánto valen: cuenta, x1, x2, x3, y |f(x3)| para la ecuación f1, en cada ciclo, hasta encontrar el valor de la raíz? para los puntos de inicio x1 = -1,  x2 = 8 y una exactitud de e = 0.199 Escríbalo a continuación línea por línea. Inicie con cuenta igual a 1.
+COLOQUE EN LA PRIMERA FILA
+
+cuenta | x1 | x2 | x3 | |f(x3)|
+-------|----|----|----|---------
+       |    |    |    |
+
+PREGUNTA 4 (2 puntos)
+
+Empleando las opciones de depuración indique lo siguiente:
+Indicar cuántos ciclos se requieren para calcular la raíz para la ecuación f2 con puntos de inicio x1 = -8 y x2 = 1 y un e = 0.00001

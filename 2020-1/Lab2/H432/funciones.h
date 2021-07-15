@@ -33,7 +33,7 @@ void liberarDatos(struct Alumno[], int);
 /* Funciones auxiliares */
 
 FILE* abrirArchivo(const char*, const char*);
-void leerCadena(char*, int, FILE*);
+char* leerCadena(char*, int, FILE*);
 int separarPalabras(char*, char**, char);
 void separacion(FILE*, char);
 

@@ -4,20 +4,20 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>alumno.h</itemPath>
-      <itemPath>curso.h</itemPath>
-      <itemPath>funciones.h</itemPath>
+      <itemPath>Bus.h</itemPath>
+      <itemPath>Pasajero.h</itemPath>
+      <itemPath>funcionesCadenas.h</itemPath>
+      <itemPath>funcionesLab6.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
-      <itemPath>Matricula.csv</itemPath>
-      <itemPath>SolicitudDeAlumnos.txt</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>funciones.c</itemPath>
+      <itemPath>funcionesCadenas.c</itemPath>
+      <itemPath>funcionesLab6.c</itemPath>
       <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -42,17 +42,17 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="Matricula.csv" ex="false" tool="3" flavor2="0">
+      <item path="Bus.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="SolicitudDeAlumnos.txt" ex="false" tool="3" flavor2="0">
+      <item path="Pasajero.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="alumno.h" ex="false" tool="3" flavor2="0">
+      <item path="funcionesCadenas.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="curso.h" ex="false" tool="3" flavor2="0">
+      <item path="funcionesCadenas.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="funciones.c" ex="false" tool="0" flavor2="0">
+      <item path="funcionesLab6.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="funciones.h" ex="false" tool="3" flavor2="0">
+      <item path="funcionesLab6.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
@@ -77,17 +77,17 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="Matricula.csv" ex="false" tool="3" flavor2="0">
+      <item path="Bus.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="SolicitudDeAlumnos.txt" ex="false" tool="3" flavor2="0">
+      <item path="Pasajero.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="alumno.h" ex="false" tool="3" flavor2="0">
+      <item path="funcionesCadenas.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="curso.h" ex="false" tool="3" flavor2="0">
+      <item path="funcionesCadenas.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="funciones.c" ex="false" tool="0" flavor2="0">
+      <item path="funcionesLab6.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="funciones.h" ex="false" tool="3" flavor2="0">
+      <item path="funcionesLab6.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>

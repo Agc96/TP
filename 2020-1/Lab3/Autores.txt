@@ -1,0 +1,50 @@
+CODIGO  NOMBRE                                    LIBROS VENDIDOS  REGALIAS
+------------------------------------------------------------------------------------------------------------------------
+870138  Gustavo Alonso Del Castillo Mejia                       0      0.00
+378708  Wilmer Saenz Aranda                                     0      0.00
+140158  Miguel Calixto Torres                                   0      0.00
+349213  Delia Zarate Urbina                                     0      0.00
+275448  Carmen Zamora Cabrera                                   0      0.00
+530367  Delia Estefania Cabrera Moreno                          0      0.00
+510907  Fiorella Erika Florencio Polo                           0      0.00
+250612  Zkenia Irma Chung Zuniga                                0      0.00
+514787  Walter Jolay Chumpitaz                                  0      0.00
+919777  Rosario Tabori Arias                                    0      0.00
+640279  Cesar Jaime Rodriguez Serrano                           0      0.00
+350118  Julio Vilcara Jugo                                      0      0.00
+220562  Humberto Alfonso Amezquita Contreras                    0      0.00
+810557  Jaime Julian Shirakawa Florian                          0      0.00
+811509  Raul Collado Villa                                      0      0.00
+270040  David Carlos Perez Antezano                             0      0.00
+980233  Cinthia Milena Zegarra Cabello                          0      0.00
+707842  Delicia Norabuena Zegarra                               0      0.00
+453687  Blanca Luz Acuna Ayllon                                 0      0.00
+543556  Valentina Paula Urbina Antezano                         0      0.00
+348262  Emilio Emigdio Gonzales Aguirre                         0      0.00
+247769  Edilberto Jesus Mori Suarez                             0      0.00
+380049  Humberto Alberto Vargas Guevara                         0      0.00
+490454  Janet Cinthia Aranda Minaya                             0      0.00
+411592  Luz Sofia Jauregui Bravo                                0      0.00
+230184  Surami Heli Preciado Pinto                              0      0.00
+130082  Alfonso Waldemar Cabello Lam                            0      0.00
+644596  Victor Edgar Garcia Astete                              0      0.00
+320934  Ofelia Carmen Mercado Caro                              0      0.00
+730269  Delicia Arca Aquino                                     0      0.00
+530798  Giovana Mejia Zegarra                                   0      0.00
+742063  Milena Cinthia Zarate Acuna                             0      0.00
+690189  Francisco Zimic Salas                                   0      0.00
+584115  Miguel Alex Landeo Estrada                              0      0.00
+370929  Delicia Rosa Arca Leiva                                 0      0.00
+340444  Yliana Flor Ortiz Guevara                               0      0.00
+756733  Johan Enrique Ayala Zevallos                            0      0.00
+800384  Felicita Erika Del Castillo Chung                       0      0.00
+710789  Victoria Milagros Shirakawa Saona                       0      0.00
+270227  Teresa Teresa Martel Mercado                            0      0.00
+679768  Marina Natalia Garcia Inga                              0      0.00
+290786  Rosario Maribel Yep Zavaleta                            0      0.00
+650611  Edgar Munoz Vergel                                      0      0.00
+120992  Ofelia Beatriz Montero Bolanos                          0      0.00
+524655  Glenda Cabrera Mori                                     0      0.00
+990354  Javier Edgard Landa Cabrera                             0      0.00
+510063  Victoria Fiorella Cuba Pomajambo                        0      0.00
+309313  Alexander Portugal Raffo                                0      0.00

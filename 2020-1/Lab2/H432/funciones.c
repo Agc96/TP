@@ -19,12 +19,12 @@ int leerDatos(struct Alumno alumnos[]) {
     /* Abrir el archivo */
     FILE* archivo = abrirArchivo("Matricula.csv", "r");
     struct Alumno aux;
-    char linea[MAX_LINEA];
+    char linea[MAX_LINEA], *resultado;
     int numAlumnos = 0;
     /* Leer línea por línea */
     while (1) {
-        leerCadena(linea, MAX_LINEA, archivo);
-        if (feof(archivo)) break;
+        resultado = leerCadena(linea, MAX_LINEA, archivo);
+        if (resultado == NULL) break; /* feof(archivo) */
         analizarAlumno(linea, &aux);
         alumnos[numAlumnos++] = aux;
     }
@@ -81,11 +81,10 @@ void intercambiarAlumno(struct Alumno alumnos[], int i, int j) {
 
 /* Parte 3: Imprimir el reporte */
 
-void imprimirReporte(struct Alumno alumnos[], int numAlumnos,
-        int numCursosSolicitado) {
+void imprimirReporte(struct Alumno alumnos[], int numAlumnos, int numCursosSolicitado) {
     /* Abrir el archivo */
     FILE* reporte = abrirArchivo("SolicitudDeAlumnos.txt", "w");
-    int i, numAlumnosMostrados = 0;
+    int i, numAlumnosSolicitado = 0;
     /* Imprimir la cabecera del reporte */
     fprintf(reporte, "Numero de cursos solicitado: %d\n", numCursosSolicitado);
     separacion(reporte, '=');
@@ -96,12 +95,12 @@ void imprimirReporte(struct Alumno alumnos[], int numAlumnos,
     for (i = 0; i < numAlumnos; i++) {
         if (alumnos[i].numCursos == numCursosSolicitado) {
             imprimirAlumno(reporte, &(alumnos[i]));
-            numAlumnosMostrados++;
+            numAlumnosSolicitado++;
         }
     }
     /* Imprimir el resumen del reporte */
     separacion(reporte, '=');
-    fprintf(reporte, "Total de alumnos: %d\n", numAlumnosMostrados);
+    fprintf(reporte, "Total de alumnos: %d\n", numAlumnosSolicitado);
     /* Cerrar el archivo */
     fclose(reporte);
 }
@@ -145,14 +144,16 @@ FILE* abrirArchivo(const char* nomArch, const char* modo) {
     return arch;
 }
 
-void leerCadena(char* cadena, int max, FILE* archivo) {
+char* leerCadena(char* cadena, int max, FILE* archivo) {
     /* Leer la cadena del archivo de texto */
-    fgets(cadena, max, archivo);
+    char *resultado = fgets(cadena, max, archivo);
+    if (resultado == NULL) return NULL;
     /* Quitar el cambio de línea de la cadena */
     int longitud = strlen(cadena);
     if (cadena[longitud-1] == '\n') {
         cadena[longitud-1] = '\0';
     }
+    return resultado;
 }
 
 int separarPalabras(char* cadena, char** palabras, char separador) {

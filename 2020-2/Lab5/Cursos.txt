@@ -1,0 +1,160 @@
+IND251  3.50  FCI
+Gestion y Direccion de Empresas
+1INF06   4.50  EEGGCC
+Estructura de datos y programacion metodica
+1MAT04    4.50    EEGGCC
+Algebra matricial y geometria analitica
+1FIS01  3.50  EEGGCC
+Fundamentos de fisica
+1INF03     3.50  EEGGCC
+Analisis de Datos
+INF377  4.00    FCI
+Sistemas de Informacion Gerencial
+CDR123   3.50   FREL
+Pensamiento cristiano y realidad social
+INF291    3.50   FCI
+Metodos y Procedimientos
+IND275  4.50   FCI
+Control de Gestion Industrial
+INF144   5.00   FCI
+Tecnicas de programacion
+INF274   4.00  FCI
+Administracion de Sistemas Operativos y Base de Datos
+INF357     3.50  FCI
+Inteligencia de Negocios
+INF295  3.50  FCI
+Planeamiento Estrategico en Informatica
+IEE240   5.00   FCI
+Organizacion y Arquitectura de Computadoras
+1MAT06  4.50     EEGGCC
+Calculo diferencial
+INF263    3.75  FCI
+Algoritmia
+IND281   4.00  FCI
+Investigacion Operativa 2
+INF227    3.00  FCI
+Desarrollo de Programas 2
+INF340     3.50   FCI
+Auditoria de Sistemas y Tecnologias de Informacion
+INF353    4.00     FCI
+Administracion de Sistemas Operativos
+INF234    3.50     FCI
+Modelos y Simulacion Empresarial
+IEE229  3.75    FCI
+Electronica Digital
+1EST14    2.00    EEGGCC
+Experimentacion Numerica
+1ING02  4.50    EEGGCC
+Dibujo en ingenieria
+1INF04   3.50   EEGGCC
+Arquitectura de Sistemas de Informacion Empresarial
+INF355     3.00    FCI
+Seguridad Computacional
+INF342  3.50     FCI
+Seminario de Informatica
+1FIS02    4.50    EEGGCC
+Fisica 1
+1FIS07   0.40  EEGGCC
+Laboratorio de fisica 3
+INF378     4.00     FCI
+Sistemas Expertos
+1FIL01  3.00     EEGGCC
+Ciencia y filosofia
+INF008   0.50     FCI
+Practica Supervisada Preprofesional
+INF372   4.00   FCI
+Graficos en Computacion
+INF273   3.50   FCI
+Administracion de la Funcion Informatica
+MAT237   3.50  FCI
+Calculo Numerico
+1LIN16   3.00    EEGGCC
+Trabajo academico
+1FIS05    0.50    EEGGCC
+Laboratorio de fisica 2
+DER349   3.00    FDCP
+Derecho para Ingenieros Informaticos
+INF371    4.00  FCI
+Inteligencia Artificial
+1TE001  3.50     EEGGCC
+Ser humano y cristianismo en el siglo XXI
+1FIS06     4.50     EEGGCC
+Fisica 3
+1FIS03  0.50  EEGGCC
+Laboratorio de fisica 1
+INF391     2.00  FCI
+Proyecto de Tesis 1
+INF389   3.00    FCI
+Temas avanzados en Computacion
+INF282   5.00   FCI
+Lenguaje de Programacion 2
+INF370   3.00    FCI
+Calidad de Software
+1INF01   3.00     EEGGCC
+Fundamentos de programacion
+ING220    2.00   FCI
+Etica Profesional
+1INF02   3.50   EEGGCC
+Aprendizaje de Maquina
+INF309     3.50     FCI
+Desarrollo de Videojuegos
+IND290   3.00    FCI
+Seguridad Integral
+INF281    5.00   FCI
+Lenguaje de Programacion 1
+IND273     4.00    FCI
+Investigacion Operativa 1
+TEL201     4.00   FCI
+Teoria de Comunicaciones
+1MAT07   4.50    EEGGCC
+Calculo integral
+IND231   3.50    FCI
+Ingenieria Economica
+1FIS04    4.50     EEGGCC
+Fisica 2
+INF245    4.00     FCI
+Ingenieria de Software
+INF320   3.00  FCI
+Programacion en Dispositivos Moviles
+INF134    4.50    FCI
+Estructuras discretas
+INF265   4.00     FCI
+Aplicaciones de Ciencias de la Computacion
+INF250   5.00     FCI
+Sistemas de Informacion 2
+1MAT05     4.50  EEGGCC
+Fundamentos de calculo
+CDR121  3.50   FREL
+Ciencia etica y cristianismo
+INF246     3.75   FCI
+Bases de datos
+1QUI01    3.50     EEGGCC
+Quimica 1
+INF248  5.00    FCI
+Sistemas de Informacion 1
+INF388     3.50    FCI
+Temas avanzados en Ing. Computadora 01
+INF239  4.00  FCI
+Sistemas Operativos
+INF617     3.00   FCI
+Gestion de Proyectos de Software
+INF392    4.00    FCI
+Proyecto de Tesis 2
+INF310  3.00  FCI
+Teoria de grafos
+1MAT08    4.50    EEGGCC
+Calculo en varias variables
+1MAT09    4.50  EEGGCC
+Calculo aplicado
+INF226     3.00  FCI
+Desarrollo de Programas 1
+INF369    3.00    FCI
+Seguridad de Informacion
+INF238  4.00     FCI
+Redes de Computadoras
+EST218    3.50     FCI
+Estadistica para Ingenieria
+1QUI02     0.75    EEGGCC
+Laboratorio de quimica 1
+1LIN15     3.00     EEGGCC
+Comunicacion academica

@@ -1,0 +1,20 @@
+Placa    Chofer                                        Ciudades de destino                                          Asientos   Pasajeros
+========================================================================================================================================
+P9A-528  CASTILLO MEJIA GUSTAVO ALONSO                 Ica - Arequipa - Moquegua - Tacna                               10          0
+H9R-580  SAENZ ARANDA WILMER                           Junin - Pasco - Pucallpa                                        25          0
+V1S-429  CALIXTO TORRES MIGUEL                         Huanuco - Pucallpa - Yurimaguas - Iquitos                       15          0
+Z0V-608  ZARATE URBINA DELIA                           Huaraz - Trujillo - Cajamarca - Chachapoyas - Tarapoto          22          0
+Q8B-464  ZAMORA CABRERA CARMEN                         Huaraz - Trujillo - Chiclayo - Piura - Sullana - Tumbes         25          0
+M3H-482  CABRERA MORENO DELIA ESTEFANIA                Huacho - Pasco                                                  25          0
+G8Y-63   FLORENCIO POLO FIORELLA ERIKA                 Ayacucho - Abancay                                              33          0
+W0O-821  CHUNG ZUNIGA ZKENIA IRMA                      Ayacucho - Abancay - Cuzco - Puno                               24          0
+Q6F-925  JOLAY CHUMPITAZ WALTER                        Arequipa - Juliaca - Puno                                       20          0
+G7Y-809  TABORI ARIAS ROSARIO                          Arequipa - Cuzco - Puerto Maldonado                             25          0
+F1D-694  RODRIGUEZ SERRANO CESAR JAIME                 Huancavelica - Ayacucho                                         19          0
+I1X-633  VILCARA JUGO JULIO                            Huancavelica - Pasco - Huanuco - Tingo Maria                    20          0
+H7K-813  AMEZQUITA CONTRERAS HUMBERTO ALFONSO MIGUEL   Huaraz - Huanuco - Moyobamaba                                   25          0
+W4M-272  SHIRAKAWA FLORIAN JAIME JULIAN                Moquegua - Tacna                                                20          0
+S0M-437  COLLADO VILLA GARCIA RAUL                     Trujillo - Piura - Tumbes                                       27          0
+U3G-207  PEREZ ANTEZANO DAVID CARLOS                   Pisco - Ica - Nazca                                             20          0
+W4X-437  ZEGARRA CABELLO CINTHIA MILENA                Chiclayo - Paita - Sullana - Talara                             15          0
+M9J-101  NORABUENA ZEGARRA DELICIA                     Huacho - Cimbote                                                31          0

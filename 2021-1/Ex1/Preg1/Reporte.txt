@@ -1,0 +1,54 @@
+COSTOS DE LOS PLATOS OFRECIDOS:
+====================================================================================================
+Proveedor: Abarrotes generales N.A.G.R.
+----------------------------------------------------------------------------------------------------
+               Plato                 Cantidad a elaborar      Costo por plato        Costo total
+----------------------------------------------------------------------------------------------------
+    1.- Plato LIHLY DN NZ                     60                    177.59             10655.54
+    2.- Plato ANQPU LL NAX            No se puede calcular por falta del producto: 45234
+    3.- Plato WNZTQ POBB L                    65                    128.50              8352.45
+    4.- Plato ENXCI                   No se puede calcular por falta del producto: 46249
+    5.- Plato KWCSW CJI UH            No se puede calcular por falta del producto: 45234
+    6.- Plato SVYFE GG NZR                   132                    182.88             24140.75
+    7.- Plato NBRZI AH P                     129                    194.49             25089.38
+    8.- Plato BUARW MB WI                    178                    200.38             35667.27
+    9.- Plato OFENU TNP Q                    140                    189.54             26535.03
+   10.- Plato FRBSH UUM R                     23                    115.82              2663.88
+   11.- Plato DZAXB Q URJ                     98                     97.91              9594.73
+   12.- Plato BSBKQ DZ                       118                    114.32             13489.39
+   13.- Plato MEVZD ALU UVK                   61                    160.52              9791.45
+   14.- Plato RJPXU BH                       189                    171.88             32485.81
+   15.- Plato HHKJG R O                       94                    185.81             17466.36
+   16.- Plato XKYLY V YS                     142                     64.52              9161.44
+   17.- Plato GIDQD MW UEP                    31                    148.03              4588.89
+   18.- Plato QRMPI X KBX                    103                    109.33             11260.75
+   19.- Plato AOKRN WOYX C            No se puede calcular por falta del producto: 46249
+   20.- Plato QUPZN AIZ                      135                    200.04             27005.02
+   21.- Plato EXYEG V ZE                      63                    169.01             10647.71
+   22.- Plato NTXDX QV EY                    179                    148.02             26495.83
+   23.- Plato ZZWBW JQFR                      39                    210.51              8209.92
+   24.- Plato VLSVL MS H                      74                    153.99             11395.50
+   25.- Plato QXLDP W IF                     100                    184.88             18487.99
+   26.- Plato QUETW ERUW T                   191                    297.46             56815.49
+   27.- Plato YHQFI MA ECBW                  177                    163.59             28955.54
+   28.- Plato MYNBH                          173                    193.70             33510.67
+   29.- Plato DVXLX KC                        40                    164.53              6581.05
+   30.- Plato PZQVN B O                      171                     77.59             13268.51
+   31.- Plato MRLOI FO KN                    122                    180.94             22075.13
+   32.- Plato SICFM WY AW                     34                    247.90              8428.51
+   33.- Plato BLDKB B GV                     108                    197.14             21291.41
+   34.- Plato KCYQO QY                        20                    145.47              2909.46
+   35.- Plato XCTEK BNF G                    191                     84.29             16098.99
+   36.- Plato WSFBC R WAJ                     36                    155.00              5580.18
+   37.- Plato PGLNU RQ XWH                    70                    157.42             11019.12
+   38.- Plato AHJLI H OH                      20                    223.52              4470.36
+   39.- Plato EWDJV EEE                       98                    214.46             21016.96
+   40.- Plato HXXZP PZYX WO                   32                    210.44              6734.10
+   41.- Plato DQLWA T J                      178                     97.90             17426.75
+   42.- Plato YLQSP W S                      141                    180.12             25396.55
+   43.- Plato GJLNK U RF                     129                    152.80             19711.21
+   44.- Plato RGEYT PTT                      184                    139.32             25634.55
+   45.- Plato HEZQC B T                       57                    239.96             13677.93
+----------------------------------------------------------------------------------------------------
+   Costo total: 703787.56
+====================================================================================================
