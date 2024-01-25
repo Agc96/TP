@@ -1,0 +1,81 @@
+                                                    INSTITUCION EDUCATIVA LIMA
+                                                      CONSOLIDADO DE ALUMNOS
+==================================================================================================================================
+    CODIGO   NOMBRE                         CURSOS    CURSOS       PROMEDIO  CREDITOS  CREDITOS       PASA A FACULTAD
+                                            APROBADOS DESAPROBADOS PONDERADO APROBADOS DESAPROBADOS
+----------------------------------------------------------------------------------------------------------------------------------
+ 1) 20030695 Vasquez P. Alex M.                     5            0     13.27    113.50        22.75   SI
+ 2) 19990844 Justino F. Ericka V. M.                4            2     11.05     69.50        40.00   No, faltan 1.00 creditos
+ 3) 20020441 Fernandez O. Elizabeth E.              4            1     13.07     85.50        35.50   SI
+ 4) 20050391 Shirakawa O. Angel                     4            0     16.18     93.25        24.00   SI
+ 5) 20010141 Diaz A. Magali S. S.                   3            2     12.21     28.00        19.00   SI
+ 6) 19993541 Mendoza E. Rosario                     3            2     12.86     19.75        27.00   No, faltan 16.25 creditos
+ 7) 20060735 Arroyo G. Maria H.                     3            0     14.80    107.25        39.75   No, faltan 13.25 creditos
+ 8) 19980667 Valverde F. Irma Y.                    2            3      8.82     78.50        48.00   No, faltan 14.75 creditos
+ 9) 20020158 Prado F. Edgar R.                      2            3     11.32     51.50        23.00   No, faltan 8.00 creditos
+10) 20080708 Pairazaman A. Moises M. J.             2            2     12.22     45.75         9.50   SI
+11) 20043300 Raffo C. Adria G.                      2            1     12.29     25.75        25.75   No, faltan 23.25 creditos
+12) 20050743 Mejia D. Blanca M.                     2            2     12.35     96.75        26.75   No, faltan 14.00 creditos
+13) 20027352 Forzani C. Alonso                      2            1     12.68     79.50        25.50   SI
+14) 20067828 Raffo A. Surami A. M.                  2            2     12.82    108.50        10.25   No, faltan 6.75 creditos
+15) 20019778 Chumpitaz I. Ronal                     2            1     12.86     62.50         9.75   No, faltan 22.00 creditos
+16) 20046665 Delgado G. Guillermo A. L.             2            0     13.12     73.75         3.50   No, faltan 24.50 creditos
+17) 20052529 Castro S. Rolando                      2            1     13.57     80.25        35.00   No, faltan 13.50 creditos
+18) 20013723 Cerna H. Jose R.                       2            0     14.00     35.00        15.00   No, faltan 22.00 creditos
+19) 20060119 Perez F. Richard S. M.                 1            2      9.06     12.75        42.00   No, faltan 21.50 creditos
+20) 20109738 Reyes T. Edward                        1            1     10.75     71.00        17.25   SI
+21) 20003172 Villa Y. Tatiana N.                    1            0     13.00     46.50         7.00   SI
+22) 19990036 Norabuena P. Cinthia                   1            0     17.00     19.00        25.00   No, faltan 5.25 creditos
+23) 20020476 Santisteban M. Rosa                    0            0     --.--      7.50         9.00   No, faltan 29.00 creditos
+24) 20100201 Hernandez B. Emilio                    0            0     --.--     22.00        11.50   No, faltan 3.25 creditos
+25) 20090107 Maldonado R. Silvana                   0            0     --.--     41.00        17.50   No, faltan 31.25 creditos
+26) 20090888 Vega G. Janet R.                       0            0     --.--      5.25         0.50   No, faltan 5.50 creditos
+27) 20110564 Diaz C. Irma V.                        0            0     --.--     27.75         5.25   No, faltan 16.00 creditos
+28) 19980315 Wong M. Madeleine                      0            0     --.--     58.75        34.75   No, faltan 33.00 creditos
+29) 20083333 Salazar C. Lorena I.                   0            0     --.--     80.50        39.75   SI
+30) 20110165 Cabrera L. Shirley I.                  0            0     --.--     42.00        39.50   No, faltan 31.00 creditos
+31) 20070596 Cerna P. Fiorella M. S.                0            0     --.--     99.00         0.25   No, faltan 24.75 creditos
+32) 20064217 Pinto C. Shirley                       0            0     --.--     57.25        39.75   No, faltan 23.75 creditos
+33) 20060051 Cerna D. Martin                        0            0     --.--     44.25        22.75   No, faltan 30.00 creditos
+34) 19998980 Velasquez H. Edgard H.                 0            1      5.00     89.00        33.00   No, faltan 25.75 creditos
+35) 20060658 Chung L. Alvaro                        0            1      5.00     74.75        40.25   No, faltan 7.00 creditos
+36) 20110813 Inga F. Cesar A.                       0            1      6.00     61.50        15.00   No, faltan 19.25 creditos
+37) 20015236 Corrales T. Irma L.                    0            2      6.50     81.50        19.25   No, faltan 35.50 creditos
+38) 19980622 Shirakawa M. Madeleine                 0            4      8.00     33.00        55.00   No, faltan 22.75 creditos
+39) 20097877 Romero P. Gloria T.                    0            2      8.13     77.00        44.75   No, faltan 8.00 creditos
+40) 20078092 Piscoya B. Cesar B. F.                 0            2      9.59     56.25        23.00   No, faltan 16.50 creditos
+41) 20070461 Prado V. Carlos J.                     0            1     10.00     29.50        34.50   No, faltan 20.25 creditos
+----------------------------------------------------------------------------------------------------------------------------------
+Cantidad de alumnos que pasaran a Facultad:         9
+Cantidad de alumnos que no pasaran a Facultad:     32
+==================================================================================================================================
+TOTAL DE ALUMNOS MATRICULADOS EN EL CICLO:         41
+==================================================================================================================================
+
+                            RESULTADOS POR CURSO
+    CODIGO   NOMBRE                                  APROBADOS DESAPROBADOS
+ 1) 3590     CREATIVIDAD E INNOVACION                    2           2
+ 2) 8664     FUENTES Y ESTRUCTURA DEL ESTADO             3           0
+ 3) 3879     HISTORIA CULTURAL Y DE MENTALIDADES         0           1
+ 4) 8775     HISTORIA DE LA FORMACION DE OCCIDENTE       5           3
+ 5) 8318     INNOVACION Y DESARROLLO                     2           3
+ 6) 1755     PRACTICA SUPERVISADA PRE-PROFESIONAL        1           0
+ 7) 3492     TECNOLOGIA DE LA INFORMACION                2           3
+ 8) 4850     INGENIERIA DE MATERIALES                    2           3
+ 9) 3155     ELEMENTOS DE MAQUINAS 2                     2           1
+10) 8826     FUENTES DOCUMENTALES                        2           1
+11) 1123     METODOS Y TECNICAS DE INVESTIGACION 1       3           2
+12) 5712     SEMINARIO DE TESIS 2                        1           1
+13) 1510     MAQUILLAJE Y CARACTERIZACION                2           1
+14) 3171     ACTUACION 1                                 1           2
+15) 9860     TOPICOS DE INSTRUMENTACION Y CONTROL        4           0
+16) 9873     LENGUA Y COMPOSICION                        1           2
+17) 4513     TERMOFLUIDOS                                3           0
+18) 1730     ESTADISTICA PARA INGENIERIA                 1           4
+19) 3580     DRAMATURGIA 1                               3           1
+20) 9844     LEGISLACION EN COMUNICACIONES               3           2
+21) 3948     RESISTENCIA DE MATERIALES 1                 4           1
+22) 9158     ESTADO SOLIDO                               3           1
+23) 3055     ELECTIVO PARA FISICA 4                      1           2
+24) 4159     LENGUAJE DE LOS MEDIOS                      1           0
+25) 8349     PUBLICIDAD INTERACTIVA                      0           4

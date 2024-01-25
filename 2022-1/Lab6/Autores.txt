@@ -1,0 +1,50 @@
+Codigo     Nombre                                   Cantidad   Monto
+======================================================================
+BZ-0138    Gustavo Alonso Del Castillo Mejia            2475  27919.99
+SS-8708    Wilmer  Saenz Aranda                         2455  16279.93
+FB-0158    Miguel  Calixto Torres                       2741  22344.44
+PW-9213    Delia  Zarate Urbina                         2919  32636.92
+KX-5448    Carmen  Zamora Cabrera                       1769  29897.25
+FL-0367    Delia Estefania Cabrera Moreno               3419  32174.59
+WI-0907    Fiorella Erika Florencio Polo                2188  18879.91
+VU-0612    Zkenia Irma Chung Zuniga                     3269  35849.72
+DS-4787    Walter  Jolay Chumpitaz                      3034  41871.71
+WJ-9777    Rosario  Tabori Arias                        3507  32799.25
+IW-0279    Cesar Jaime Rodriguez Serrano                1572  10581.37
+HZ-0118    Julio  Vilcara Jugo                          3408  33727.52
+IA-0562    Humberto Alfonso Amezquita Contreras         2540  19008.23
+TC-0557    Jaime Julian Shirakawa Florian               2439  28765.08
+UR-1509    Raul  Collado Villa                          2292  24549.94
+YS-0040    David Carlos Perez Antezano                  3830  30068.14
+WH-0233    Cinthia Milena Zegarra Cabello               2562  21581.60
+OC-7842    Delicia  Norabuena Zegarra                   3795  41683.79
+AF-3687    Blanca Luz Acuna Ayllon                      2861  31731.31
+IK-3556    Valentina Paula Urbina Antezano              2500  15708.22
+YR-8262    Emilio Emigdio Gonzales Aguirre              2421  16431.75
+MQ-7769    Edilberto Jesus Mori Suarez                  3848  34817.90
+WC-0049    Humberto Alberto Vargas Guevara              2897  18976.59
+LA-0454    Janet Cinthia Aranda Minaya                  3775  29669.20
+YF-1592    Luz Sofia Jauregui Bravo                     2620  30955.82
+VB-0184    Surami Heli Preciado Pinto                   2742  26657.43
+NF-0082    Alfonso Waldemar Cabello Lam                 1612  16955.07
+GW-4596    Victor Edgar Garcia Astete                   1598   9033.35
+IV-0934    Ofelia Carmen Mercado Caro                   3093  20118.20
+ZF-0269    Delicia  Arca Aquino                          827  12317.41
+WC-0798    Giovana  Mejia Zegarra                       1830  15084.04
+LV-2063    Milena Cinthia Zarate Acuna                  2310  17119.33
+HM-0189    Francisco  Zimic Salas                       3153  28494.71
+VC-4115    Miguel Alex Landeo Estrada                   1113  16208.51
+EA-0929    Delicia Rosa Arca Leiva                      3227  28500.45
+GF-0444    Yliana Flor Ortiz Guevara                    2724  30818.92
+IX-6733    Johan Enrique Ayala Zevallos                 2827  23214.62
+BR-0384    Felicita Erika Del Castillo Chung            3914  31524.47
+WS-0789    Victoria Milagros Shirakawa Saona            2320  21874.54
+NL-0227    Teresa Teresa Martel Mercado                 2468  18073.74
+NG-9768    Marina Natalia Garcia Inga                   2310  22641.71
+RI-0786    Rosario Maribel Yep Zavaleta                 2251  29398.58
+YZ-0611    Edgar  Munoz Vergel                          1972  13580.41
+AC-0992    Ofelia Beatriz Montero Bolanos               1846  18506.45
+KD-4655    Glenda  Cabrera Mori                         2435  29886.46
+XH-0354    Javier Edgard Landa Cabrera                  3031  34788.17
+FM-0063    Victoria Fiorella Cuba Pomajambo             2762  43997.19
+FL-9313    Alexander  Portugal Raffo                    1619  14375.92

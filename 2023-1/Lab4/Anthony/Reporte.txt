@@ -1,0 +1,849 @@
+LIBRERIA LOS LIBROS TP
+VENTA DE LIBROS EN EL RANGO 01/02/2023 AL 15/03/2023
+================================================================================
+01) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    75307280           0     68.13               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+================================================================================
+20) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    84685156          45    161.64            7273.80
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    644596                  23.51%            1710.07
+    800384                   2.75%             200.03
+================================================================================
+03) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    57781072         181     21.32            3858.92
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    349213                  16.67%             643.28
+================================================================================
+04) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    30985360          94    102.09            9596.46
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    810557                  19.96%            1915.45
+    584115                   6.48%             621.85
+================================================================================
+05) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    45646952          57     35.13            2002.41
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    378708                  17.13%             343.01
+    220562                  15.45%             309.37
+    340444                  20.25%             405.49
+================================================================================
+06) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    94305823          43     45.50            1956.50
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    250612                  21.95%             429.45
+    980233                   3.24%              63.39
+    584115                  21.68%             424.17
+    810557                   1.82%              35.61
+    411592                  10.41%             203.67
+================================================================================
+07) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    65918368          78    180.12           14049.36
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    220562                   8.16%            1146.43
+    370929                  14.47%            2032.94
+================================================================================
+08) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    36403547          71    131.84            9360.64
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    543556                   9.02%             844.33
+================================================================================
+09) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    80861409          13     38.71             503.23
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    230184                  18.95%              95.36
+================================================================================
+10) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    34123560         194     35.89            6962.66
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    640279                  12.46%             867.55
+    510907                  24.62%            1714.21
+    247769                  13.01%             905.84
+    543556                   9.34%             650.31
+    810557                   3.11%             216.54
+    870138                  18.91%            1316.64
+================================================================================
+11) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    94351621         112     21.42            2399.04
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    380049                  23.09%             553.94
+    707842                  10.08%             241.82
+    247769                  22.06%             529.23
+================================================================================
+12) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    89015978          99     59.37            5877.63
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    340444                  11.45%             672.99
+    690189                   7.87%             462.57
+================================================================================
+13) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    45063992           0    230.29               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    810557                  17.17%               0.00
+================================================================================
+14) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    27757101         121     11.27            1363.67
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    710789                   9.94%             135.55
+================================================================================
+15) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    80324796          56    107.50            6020.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    919777                  18.13%            1091.43
+    980233                   6.72%             404.54
+    543556                  14.06%             846.41
+================================================================================
+16) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    18864372          21    232.60            4884.60
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    230184                   0.24%              11.72
+    510907                  12.98%             634.02
+    514787                   5.72%             279.40
+================================================================================
+17) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    19687930         102     23.40            2386.80
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    230184                  14.59%             348.23
+================================================================================
+18) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    12583928         212    140.27           29737.24
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    710789                   2.38%             707.75
+    514787                   0.06%              17.84
+    270040                   1.73%             514.45
+    378708                   4.62%            1373.86
+    340444                  13.81%            4106.71
+================================================================================
+19) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    73748921           0     82.46               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    800384                  24.91%               0.00
+    378708                  12.71%               0.00
+================================================================================
+20) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    88642298         190    147.61           28045.90
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    514787                  24.42%            6848.81
+    348262                  10.70%            3000.91
+    350118                  18.09%            5073.50
+================================================================================
+21) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    73932723          20     34.52             690.40
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    378708                  19.71%             136.08
+    800384                   4.86%              33.55
+    230184                   5.76%              39.77
+================================================================================
+22) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    70268805           0     44.29               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    130082                  15.58%               0.00
+    584115                  17.37%               0.00
+    270040                  12.40%               0.00
+================================================================================
+23) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    74930374          97    213.27           20687.19
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    130082                  16.27%            3365.81
+    349213                  11.79%            2439.02
+    340444                  24.63%            5095.25
+================================================================================
+24) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    31593549         191    216.30           41313.30
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    980233                  14.19%            5862.36
+    730269                  19.18%            7923.89
+    811509                  24.03%            9927.59
+================================================================================
+25) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    23287983         109     35.52            3871.68
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    140158                  14.43%             558.68
+    275448                   8.41%             325.61
+    690189                  10.59%             410.01
+    380049                  18.29%             708.13
+    644596                  15.24%             590.04
+================================================================================
+26) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    61833853         242    199.82           48356.44
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    690189                  17.35%            8389.84
+    644596                  24.69%           11939.21
+================================================================================
+27) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    74962583         151     76.34           11527.34
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    411592                  15.31%            1764.84
+    811509                  14.83%            1709.50
+================================================================================
+28) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    46667916           0     43.30               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    530798                   5.47%               0.00
+    756733                   6.91%               0.00
+    220562                   5.39%               0.00
+    378708                  23.23%               0.00
+================================================================================
+29) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    57803713          72    119.15            8578.80
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+================================================================================
+30) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    25902367           0     84.13               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+================================================================================
+31) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    86304371         136    241.98           32909.28
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    710789                  15.39%            5064.74
+    230184                  24.82%            8168.08
+================================================================================
+32) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    24312298           0     47.61               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    250612                  18.47%               0.00
+    710789                   3.46%               0.00
+    340444                  23.86%               0.00
+    411592                  19.83%               0.00
+================================================================================
+33) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    68521386         134     67.95            9105.30
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    220562                  21.18%            1928.50
+    490454                  10.12%             921.46
+    250612                  18.93%            1723.63
+================================================================================
+34) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    88275746          54    125.28            6765.12
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    350118                   9.64%             652.16
+    453687                  19.60%            1325.96
+    140158                  17.94%            1213.66
+================================================================================
+35) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    58897610         176    169.80           29884.80
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    250612                  22.64%            6765.92
+    730269                  11.80%            3526.41
+================================================================================
+36) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    78845169         149    119.04           17736.96
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    710789                   5.11%             906.36
+    370929                   3.27%             580.00
+    220562                  10.77%            1910.27
+================================================================================
+37) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    11282107          70    113.33            7933.10
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    690189                   3.44%             272.90
+    230184                   1.96%             155.49
+================================================================================
+38) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    39435422          85    222.08           18876.80
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    270040                  19.13%            3611.13
+    530798                  21.86%            4126.47
+    811509                  15.29%            2886.26
+    756733                  13.13%            2478.52
+    340444                  19.79%            3735.72
+    800384                   0.83%             156.68
+================================================================================
+39) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    19305528          90    193.90           17451.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    320934                  23.79%            4151.59
+    870138                   3.71%             647.43
+    130082                   9.10%            1588.04
+    640279                  16.44%            2868.94
+================================================================================
+40) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    30723979          89    242.04           21541.56
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    644596                   1.55%             333.89
+================================================================================
+41) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    40730103          22     58.95            1296.90
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    270040                   8.26%             107.12
+    370929                  11.39%             147.72
+    690189                   3.72%              48.24
+================================================================================
+42) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    12862077          20    126.71            2534.20
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    230184                  10.92%             276.73
+    378708                  14.15%             358.59
+================================================================================
+43) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    67152643         219    220.45           48278.55
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    453687                   8.23%            3973.32
+    247769                  19.87%            9592.95
+    644596                  21.52%           10389.54
+================================================================================
+44) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    72821103          90    189.07           17016.30
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    378708                   7.23%            1230.28
+    584115                   3.41%             580.26
+    340444                   5.92%            1007.36
+    543556                  15.97%            2717.50
+    640279                  15.01%            2554.15
+================================================================================
+45) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    82363466           0    210.38               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    140158                  12.19%               0.00
+================================================================================
+46) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    61564666           0    174.20               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    340444                  22.35%               0.00
+    980233                   2.97%               0.00
+    350118                  20.83%               0.00
+================================================================================
+47) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    15025361           0    230.17               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    275448                  24.86%               0.00
+    584115                   6.96%               0.00
+================================================================================
+48) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    25650475           0    165.28               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    270040                  13.43%               0.00
+    490454                  22.20%               0.00
+    270040                  15.93%               0.00
+    870138                   8.73%               0.00
+================================================================================
+49) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    64644939          41    143.81            5896.21
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    707842                  10.40%             613.21
+    919777                   3.83%             225.82
+    644596                   4.45%             262.38
+    340444                   0.13%               7.67
+    530798                  19.11%            1126.77
+================================================================================
+50) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    45787791          48    136.05            6530.40
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    800384                   5.30%             346.11
+    919777                  12.72%             830.67
+    140158                  10.33%             674.59
+    707842                  21.03%            1373.34
+================================================================================
+51) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    71662995          62    209.24           12972.88
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    247769                   1.34%             173.84
+    530798                   2.76%             358.05
+    800384                  15.93%            2066.58
+    742063                   8.91%            1155.88
+    230184                  23.23%            3013.60
+    411592                   2.51%             325.62
+================================================================================
+52) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    77414330          72    166.13           11961.36
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    530367                  10.54%            1260.73
+    250612                   5.33%             637.54
+    811509                  10.73%            1283.45
+================================================================================
+53) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    98036560         145    190.17           27574.65
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    378708                  19.81%            5462.54
+    810557                  16.42%            4527.76
+    584115                  14.82%            4086.56
+    543556                  20.09%            5539.75
+    919777                  14.19%            3912.84
+================================================================================
+54) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    78781192          49    107.91            5287.59
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    378708                  23.23%            1228.31
+    130082                  10.67%             564.19
+================================================================================
+55) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    24738433          84     49.83            4185.72
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    140158                   2.38%              99.62
+    350118                  17.00%             711.57
+    220562                   3.05%             127.66
+    370929                  23.03%             963.97
+================================================================================
+56) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    16347936          32    239.24            7655.68
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    514787                  17.42%            1333.62
+    230184                  13.92%            1065.67
+    320934                   1.81%             138.57
+    980233                  21.34%            1633.72
+================================================================================
+57) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    63108513          73     11.41             832.93
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    800384                   1.20%              10.00
+    320934                   3.52%              29.32
+================================================================================
+58) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    88314411         102    195.43           19933.86
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    690189                  10.24%            2041.23
+    349213                  15.03%            2996.06
+    140158                   3.26%             649.84
+    380049                   5.90%            1176.10
+================================================================================
+59) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    18577696          10    214.15            2141.50
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    810557                  13.56%             290.39
+    800384                   8.81%             188.67
+    320934                  24.34%             521.24
+================================================================================
+60) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    56279744           0     57.36               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    980233                  12.01%               0.00
+================================================================================
+61) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    33763303          29     55.23            1601.67
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    270040                  24.84%             397.85
+    742063                  10.18%             163.05
+    510907                  19.86%             318.09
+    275448                   9.78%             156.64
+================================================================================
+62) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    47777291         165    164.86           27201.90
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    800384                   8.87%            2412.81
+    811509                   7.61%            2070.06
+    230184                  19.10%            5195.56
+================================================================================
+63) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    22143644         128     25.96            3322.88
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    810557                  22.94%             762.27
+    350118                  14.76%             490.46
+    220562                   8.24%             273.81
+================================================================================
+64) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    88463100          26    136.32            3544.32
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    140158                   2.35%              83.29
+================================================================================
+65) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    23862163          40    182.89            7315.60
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    348262                   7.91%             578.66
+    130082                   5.87%             429.43
+    980233                   0.97%              70.96
+================================================================================
+66) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    75274398          63     33.80            2129.40
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    510907                   8.00%             170.35
+================================================================================
+67) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    87725049          90    153.05           13774.50
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    919777                   7.29%            1004.16
+    270040                  24.15%            3326.54
+    800384                  15.90%            2190.15
+================================================================================
+68) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    13613697          77    220.96           17013.92
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    230184                   0.74%             125.90
+    220562                   1.19%             202.47
+    584115                  22.10%            3760.08
+================================================================================
+69) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    92923724         162    225.82           36582.84
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    690189                  12.84%            4697.24
+    756733                   9.98%            3650.97
+    530798                   1.70%             621.91
+    378708                   4.75%            1737.68
+    453687                  23.00%            8414.05
+================================================================================
+70) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    69495546         120     70.54            8464.80
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    247769                  23.36%            1977.38
+    411592                  16.15%            1367.07
+    140158                  10.48%             887.11
+================================================================================
+71) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    76471783          96    245.49           23567.04
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    644596                   7.06%            1663.83
+    270040                  23.92%            5637.24
+================================================================================
+72) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    72895120          12     85.92            1031.04
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    584115                  21.01%             216.62
+    230184                  21.10%             217.55
+================================================================================
+73) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    29366832         131    160.81           21066.11
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    870138                  20.41%            4299.59
+    810557                   7.92%            1668.44
+================================================================================
+74) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    95654030          52     72.17            3752.84
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    742063                   6.18%             231.93
+    348262                  13.99%             525.02
+    870138                  16.90%             634.23
+    140158                   2.95%             110.71
+    811509                  21.86%             820.37
+    530367                  22.91%             859.78
+================================================================================
+75) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    39294590         134     31.38            4204.92
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    584115                  24.10%            1013.39
+    370929                   3.22%             135.40
+    270040                  22.01%             925.50
+    800384                  23.64%             994.04
+================================================================================
+76) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    81864733          15    218.79            3281.85
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    742063                  24.97%             819.48
+    340444                   1.08%              35.44
+    350118                   5.02%             164.75
+================================================================================
+77) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    87197419          86    160.07           13766.02
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+================================================================================
+78) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    61834025         136      4.58             622.88
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    220562                   0.10%               0.62
+    350118                   8.76%              54.56
+    543556                   8.47%              52.76
+    810557                  22.37%             139.34
+================================================================================
+79) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    61238188          22    184.97            4069.34
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    644596                  24.80%            1009.20
+================================================================================
+80) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    40816428          52    186.32            9688.64
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    530367                   3.40%             329.41
+================================================================================
+81) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    28697286          81     92.10            7460.10
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    348262                   2.85%             212.61
+    140158                   2.23%             166.36
+================================================================================
+82) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    39290027           0    201.26               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    275448                  23.19%               0.00
+    411592                  21.88%               0.00
+================================================================================
+83) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    13038626         115    185.70           21355.50
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+================================================================================
+84) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    98031819         150    195.83           29374.50
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    811509                  13.47%            3956.75
+    756733                   8.82%            2590.83
+    250612                   4.14%            1216.10
+================================================================================
+85) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    17723698          27    108.97            2942.19
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    270040                  12.96%             381.31
+    644596                  19.41%             571.08
+    543556                  19.73%             580.49
+================================================================================
+86) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    42620846           0    180.25               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    870138                  10.23%               0.00
+    349213                  10.99%               0.00
+    710789                  21.51%               0.00
+    130082                  18.54%               0.00
+================================================================================
+87) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    13051900           0    206.15               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    348262                   7.95%               0.00
+================================================================================
+88) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    91275921         160     49.34            7894.40
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    350118                   5.36%             423.14
+    543556                  21.85%            1724.93
+    130082                   3.37%             266.04
+================================================================================
+89) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    83310207           0     12.06               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    811509                  16.67%               0.00
+    690189                   6.19%               0.00
+    320934                  22.86%               0.00
+    349213                   8.99%               0.00
+    980233                  20.89%               0.00
+================================================================================
+90) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    77689871          90    249.08           22417.20
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    530367                  20.78%            4658.29
+================================================================================
+91) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    27718059         104    158.75           16510.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    453687                  23.95%            3954.14
+    644596                   6.13%            1012.06
+    275448                   2.23%             368.17
+    919777                   7.71%            1272.92
+    348262                   3.97%             655.45
+================================================================================
+92) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    77753141          17    207.90            3534.30
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    584115                  22.23%             785.67
+    690189                   1.26%              44.53
+    270040                   9.78%             345.65
+================================================================================
+93) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    62122326         140     57.95            8113.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    811509                   9.80%             795.07
+    644596                   0.64%              51.92
+================================================================================
+94) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    29772611          13    220.56            2867.28
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    742063                  19.55%             560.55
+    710789                  23.81%             682.70
+    250612                  17.32%             496.61
+================================================================================
+95) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    49928654         133     17.24            2292.92
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    530798                   1.11%              25.45
+    710789                  22.56%             517.28
+================================================================================
+96) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    53881953           0    120.78               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    230184                  19.92%               0.00
+    644596                  16.51%               0.00
+    130082                   3.99%               0.00
+================================================================================
+97) LIBRO       CANTIDAD    PRECIO    MONTO RECAUDADO
+    16795834           0    180.31               0.00
+
+    REGALIAS PARA LOS AUTORES
+    AUTOR     PORCENTAJE A RECIBIR    MONTO A RECIBIR
+    510907                  19.37%               0.00
