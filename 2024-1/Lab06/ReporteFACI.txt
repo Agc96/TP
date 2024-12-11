@@ -1,0 +1,24 @@
+INSTITUCION EDUCATIVA TP
+PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+CICLO: 2024-1
+FACULTAD DE INGENIERIA
+========================================================================================================================
+ALUMNO                                              No. de Cursos  Suma Ponderada  No. de Creditos  Prom Ponderado
+------------------------------------------------------------------------------------------------------------------------
+20202756 - Edgar Richard Prado Falcon              
+20193373 - Alex Martin Vasquez Paz                         14          864.75            62.50           13.84
+20209968 - Carlos Julian Ana Prado Vergel                   9          500.75            44.75           11.19
+20239652 - Cesar Adolfo Inga Flores                        15          910.50            70.50           12.91
+20236453 - Edric Ronald Arca Amezquita                     16          975.50            74.25           13.14
+20198845 - Adolfo Landeo Sueldo                            13          743.25            56.25           13.21
+20233583 - Henrry Humberto Palomares Vera                  16          976.00            77.75           12.55
+20227724 - Heli Karin Coronel Chumpitaz                    16          778.50            69.75           11.16
+20226455 - Beatriz Flavia Henriquez Espino                 15          674.00            69.00            9.77
+20207741 - Guillermo Edric Cabrera Canales                 11          675.75            49.25           13.72
+20236905 - Melvin Henrry Laura Wong                        11          691.25            49.25           14.04
+20218376 - Christian Landa Piscoya                         16          986.00            74.50           13.23
+20193573 - Annie Ofelia Asmad Acuna                         9          493.00            35.50           13.89
+20216619 - Rafael Iberos Valderrama                        13          813.25            60.75           13.39
+20211892 - Henry James Gonzales Arias                      15          762.00            62.75           12.14
+20231152 - Jenny Delicia Hijar Pairazaman                   8          372.25            35.50           10.49
+========================================================================================================================

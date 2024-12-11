@@ -60,3 +60,16 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# Archivos de correcciones
+Correcciones/
+Scripts/
+Comentarios/
+Corregidos/
+Originales/
+*.zip
+*.xlsm
+*.re
+jp*
+H4*.csv
+Notas.csv

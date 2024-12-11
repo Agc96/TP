@@ -1,0 +1,21 @@
+INSTITUCION EDUCATIVA TP
+PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+CICLO: 2024-1
+ESTUDIOS GENERALES CIENCIAS
+========================================================================================================================
+ALUMNO                                              No. de Cursos  Suma Ponderada  No. de Creditos  Prom Ponderado
+------------------------------------------------------------------------------------------------------------------------
+20227341 - Magali Silvana Diaz Antezano            
+20198237 - Rolando Castro Suarez                   
+20194050 - Irma Lourdes Corrales Tsukazan                  18          976.00            82.00           11.90
+20195340 - Martin Pedro Cerna Durand                       14          754.75            62.50           12.08
+20193984 - Christian Raul Felipe Paredes Patino            10          393.25            44.75            8.79
+20197557 - Sandro Caro Polo                                13          638.75            57.25           11.16
+20235440 - Johana Gloria Portugal Benavente                16          980.50            70.50           13.91
+20198608 - Yvonne Rosario Gordillo Yino                    15          814.00            62.00           13.13
+20197374 - Victor Justino Vilcara Correa                    7          430.25            32.50           13.24
+20205864 - Johana Silvia Maldonado Florian                 10          646.50            46.50           13.90
+20219990 - Rocio Yolanda Acuna Yino                         9          544.00            41.25           13.19
+20213075 - Ydali Rocio Florian Morales                     16          851.50            71.00           11.99
+20195764 - Monica Doris Calixto Tomasiche                  14          585.25            62.00            9.44
+========================================================================================================================
